@@ -4,3 +4,10 @@ C:\Users\Training\Documents\Training Projects\SignUp\SignUp\bin\SignUp.dll
 C:\Users\Training\Documents\Training Projects\SignUp\SignUp\bin\SignUp.pdb
 C:\Users\Training\Documents\Training Projects\SignUp\SignUp\obj\Debug\SignUp.dll
 C:\Users\Training\Documents\Training Projects\SignUp\SignUp\obj\Debug\SignUp.pdb
+C:\Users\Janidu Lankage\Documents\GitHub\SignUpInAsp.Net\SignUp\bin\SignUp.dll.config
+C:\Users\Janidu Lankage\Documents\GitHub\SignUpInAsp.Net\SignUp\bin\SignUp.dll
+C:\Users\Janidu Lankage\Documents\GitHub\SignUpInAsp.Net\SignUp\bin\SignUp.pdb
+C:\Users\Janidu Lankage\Documents\GitHub\SignUpInAsp.Net\SignUp\obj\Debug\SignUp.csproj.AssemblyReference.cache
+C:\Users\Janidu Lankage\Documents\GitHub\SignUpInAsp.Net\SignUp\obj\Debug\SignUp.csproj.CoreCompileInputs.cache
+C:\Users\Janidu Lankage\Documents\GitHub\SignUpInAsp.Net\SignUp\obj\Debug\SignUp.dll
+C:\Users\Janidu Lankage\Documents\GitHub\SignUpInAsp.Net\SignUp\obj\Debug\SignUp.pdb
